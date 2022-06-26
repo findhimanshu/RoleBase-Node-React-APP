@@ -2,7 +2,7 @@
 
 # dependencies
 /BACKEND/node_modules
-/FRONTEND/onelogin/node_modules
+/FRONTEND/node_modules
 /.pnp
 .pnp.js
 
